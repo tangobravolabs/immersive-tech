@@ -10,6 +10,16 @@ Crawford's Lessons
 + Stories take place on stages, not maps.
 
 
+02.17.21
+TIL: PP 28-30 Interactive Storytelling - Crawford
+* Second-person insight - the ability to experience the story from another's point of view
+* Most great artists have a technical inight that allows them to produce great works
+* To produce great interactive stories you need to understand how your player / participant / user will interpret and react
+* This is more complex than an entertainer who just needs to know which jokes are funny for an example to an audience
+* Interactive storytelling has to anticpate reaction to a whole universe of things.
+* This involves being able to think like that second person, even when they may think very differently from you.
+* Repetition is the way to enforce learning. There may need to be many different ways of saying the same thing to get to all members.
+
 02.16.21
 TIL: PP 28-30 Interactive Storytelling - Crawford
 * Spatial thinking and reasoning is part of a story
