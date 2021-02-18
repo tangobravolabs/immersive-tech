@@ -8,10 +8,25 @@ Crawford's Lessons
 + Spectacle does not make stories.
 + Visual thinking should not dominate stories.
 + Stories take place on stages, not maps.
++ Your designs should aspire to the ideal of metaphorically having sex with your users.
 
 
-02.17.21
-TIL: PP 28-30 Interactive Storytelling - Crawford
+02.18.21
+TIL: PP 33-37 Interactive Storytelling - Crawford
+* People create mental model of the world, this is connected to many different external pieces = their network of understanding of the world around them
+* Artists of other mediums can affort to not listen to their audience, but due to the nature of interactivity it is important to reveal the discrepencies between the artists vision and the audience's network
+* It is also important that the artist has a vision so that the experience is unified
+* Not all feedback needs to be incorporated or the final result will be come muddy, and useless
+* And the artist can not solely rely on their ego and vision, elsewise it will miss the mark
+* Example of the king taking all the resources for himself, it doesn't work out. He needs to do what's best for the people.
+* It is the artists responsibiity to meet each player head-on and make sure they get it.
+* Iteractivity isn't binary, or boolean, there is a spectrum of interactivty
+* It is a numeric quantity like weight
+* Sex, for example is on the high end fo that scale. It's the deepest interaction two people can have.
+* Three factors determine the degree of interactivity in storytellng: speed, depth, and choice.
+
+4.17.21
+TIL: PP 30-33 Interactive Storytelling - Crawford
 * Second-person insight - the ability to experience the story from another's point of view
 * Most great artists have a technical inight that allows them to produce great works
 * To produce great interactive stories you need to understand how your player / participant / user will interpret and react
