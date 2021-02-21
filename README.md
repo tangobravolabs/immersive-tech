@@ -11,7 +11,20 @@ Crawford's Lessons
 + Your designs should aspire to the ideal of metaphorically having sex with your users.
 
 
-02.18.21
+02.21.21
+* TIL: https://www.youtube.com/watch?v=MtiUx_szKbI
+* Targets are items that can be watched or listened for by the application 
+* Recognition of targets triggers a behavior
+* Images, video, and other content can be presented as a behavior when a target is recognized
+* Targets work much like QR codes
+* Also, https://www.lynda.com/Unity-tutorials/Welcome/661757/743009-4.html
+* Interactivty in Unity is based on scripts
+* You can get UNITY here: https://unity3d.com/get-unity/download
+* Animation is a tactic to increase interactivity
+* You can use proximity as a trigger too
+* You can add interfaces into scenes to increase interactivty
+
+4.18.21
 TIL: PP 33-37 Interactive Storytelling - Crawford
 * People create mental model of the world, this is connected to many different external pieces = their network of understanding of the world around them
 * Artists of other mediums can affort to not listen to their audience, but due to the nature of interactivity it is important to reveal the discrepencies between the artists vision and the audience's network
