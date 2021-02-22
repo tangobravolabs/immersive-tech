@@ -9,7 +9,22 @@ Crawford's Lessons
 + Visual thinking should not dominate stories.
 + Stories take place on stages, not maps.
 + Your designs should aspire to the ideal of metaphorically having sex with your users.
++ Fast turnaround is always better than slow turnaround.
++ The overall quality of an interaction depends on its depth, as well as speed
++ 
 
+
+02.22.21
+TIL: PP 37-42 Interactive Storytelling - Crawford
+* The three determinants of interactivty: speed, depth, and choice.
+* The faster the feedback turn time, the more interction is possible
+* Depth refers to how much mental exertion is required to focus on the activity / task
+* Choice - the optins a player / user has. It's not important the number of choices as much as the quality of choices
+* Functional significance means to what degree the choice sastisfies a users needs or goals
+* Functional bloat is adding functionality that is not functionally significant to a user
+* Its important to note that what is functional bloat to one user is functionaly significant to another user.
+* You have to balance this for all players.
+* ALWAYS ASK, WHAT DOES A USER DO? WHAT ARE THE VERBS?
 
 02.21.21
 * TIL: https://www.youtube.com/watch?v=MtiUx_szKbI
@@ -24,7 +39,7 @@ Crawford's Lessons
 * You can use proximity as a trigger too
 * You can add interfaces into scenes to increase interactivty
 
-4.18.21
+2.18.21
 TIL: PP 33-37 Interactive Storytelling - Crawford
 * People create mental model of the world, this is connected to many different external pieces = their network of understanding of the world around them
 * Artists of other mediums can affort to not listen to their audience, but due to the nature of interactivity it is important to reveal the discrepencies between the artists vision and the audience's network
