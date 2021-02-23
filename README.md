@@ -13,8 +13,20 @@ Crawford's Lessons
 + The overall quality of an interaction depends on its depth, as well as speed
 + 
 
+02.23.21
+TIL: PP 42-49
+* Why bother with interativity?
+* Competitive advantage of computer-driven content (by nature of the conversation, computers are made for interactviity)
+* Revolutionary - most of the work in this field has never been done. It's a field for explorers and pioneers.
+* Power to influnce - due to the natuer of engagment, people are part of the equation and they can be incluenced by the stories you tell
+* How interactive story telling is the same and different from games
+> * Both tell stories, but games are not very good at stories
+> * Games have an objective and competition
+> * Games can be replayed and have the same experience, interactive stories are based on choice so they are "created" each time 
 
-02.22.21
+
+Interactive Storytelling - Crawford
+2.22.21
 TIL: PP 37-42 Interactive Storytelling - Crawford
 * The three determinants of interactivty: speed, depth, and choice.
 * The faster the feedback turn time, the more interction is possible
