@@ -27,7 +27,38 @@ TIL: https://www.bu.edu/jlengel/desint.html
 * > Choose the appropriate programming tools:
 · ClarisWorks	· Persuasion
 · HyperCard	· Astound
-* 
+* Also, https://en.wikipedia.org/wiki/Adobe_Persuasion
+* Adobe Pesuasion was an interactive presentation tool - a predecessor to powerpoint
+* https://winworldpc.com/product/astound-presentation/70
+* Astound is a powerful multimedia presentation authoring program originally for the Mac and Windows. Astound gives you the power to create presentations that persuade, inform, and entertain. - competed and succeeded by Powerpoint
+* Also, https://www.redsharknews.com/the-rise-and-fall-of-the-interactive-cd-rom
+* CD-ROM came into the world in the early 90s, just before the internet had really taken off 
+* The emerging CD-ROM industry saw itself as separate from the fledgling computer games industry (still working mostly on floppy disc) and very different from the movie business. 
+* It couldn’t deliver full screen, full motion video, but it could give you decent audio and lovely graphics with lots of things to click on to lead you to other screens. 
+* CD-ROM seemed to be particularly popular on Apple Macs. Macs were still (just about) in ascendance, and HyperCard (a basic programming tool supplied free with Macs) made it relatively easy to author a disc. 
+* There was a notion among some filmmakers that this was, somehow, the future of movies.
+* The big problem with CD-ROM was that the technology could not deliver anything close to full screen movies. 
+* One hugely successful release showed the way forward, and that was the HyperCard-based single-player adventure/puzzle game Myst, originally launched for the Mac in 1993. In six months it sold 200,000 copies, after porting to Windows it went on to sell well over 6 million. 
+* Of course, out of the various notions of what CD-ROM was for, games would end up being the great winner, particularly after the rise of the dedicated games console.
+*  DVD arrived in the mid 90s to takeover as the premium format for movies, and most of the educational ambitions of the interactive CD-ROM would be subsumed by the internet. 
+*  https://en.wikipedia.org/wiki/HyperCard
+*  HyperCard is a software application and development kit for Apple Macintosh and Apple IIGS computers. It is among the first successful hypermedia systems predating the World Wide Web.
+*  HyperCard combines a flat-file database with a graphical, flexible, user-modifiable interface.[2] HyperCard includes a built-in programming language called HyperTalk for manipulating data and the user interface.
+*  This combination of features – a database with simple form layout, flexible support for graphics, and ease of programming – suits HyperCard for many different projects such as rapid application development of applications and databases, interactive applications with no database requirements, command and control systems, and many examples in the demoscene.
+*  Also, hypertalk https://en.wikipedia.org/wiki/HyperTalk
+*  HyperTalk favored natural-language ordering of predicates over the ordering used in mathematical notation.
+*  HyperCard's primary user interface concept was the card.
+*  The graphical layout of the card was created using the mouse by placing various elements on the card, such as text fields and buttons.
+*  Containers of a given type were also available as collections with a pluralized version of that container type as its name—the collection of the fields on a card was card fields. 
+*  A notable feature of the HyperTalk container model was its handling of text. Every collection of text, whether a literal string in a program or text typed into a text field, was itself considered a container with multiple collections of containers within it
+*  HyperTalk used an object-oriented concept for calling scripts, with objects in the stack sending "events" as messages that would be processed by handlers that declared their interest in receiving the events using the on syntax. For instance, most GUI containers would send the mouseDown message when the mouse button was clicked down, and then a mouseUp message when it was released .
+*  Messages for events were first sent to the script in the object that created the even
+*  One unique distinction between HyperCard's programming language HyperTalk and seemingly similar languages like AppleScript was that HyperTalk scripts were more lenient in what input they accepted
+*  Although the HyperTalk language languished just like HyperCard itself, it received a second lease on life through its plugin protocol, so-called External Commands (XCMDs) and External Functions (XFCNs), which were native code containers attached to stacks (as Macintosh-specific resources) with a single entry point and return value.
+*  Also, https://en.wikipedia.org/wiki/Inform#Inform_7
+*  Inform is a programming language and design system for interactive fiction originally created in 1993 by Graham Nelson
+*  Here's an example game in Inoform 7 https://en.wikipedia.org/wiki/Inform#Example_game
+* Inform 7 http://inform7.com/
 
 
 02.23.21
