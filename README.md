@@ -13,6 +13,23 @@ Crawford's Lessons
 + The overall quality of an interaction depends on its depth, as well as speed
 + 
 
+02.24.21
+TIL: https://www.bu.edu/jlengel/desint.html
+* Here's a starter process for designing an interaction
+* > Define the ideas your client wants to communicate.
+* > List the basic elements of your project:
+· videos	· sounds and music
+· photographs	· drawings and designs
+· text articles	· voice
+* > Plan your project on paper.
+· Storyboard	· Diagram
+· Flow Chart
+* > Choose the appropriate programming tools:
+· ClarisWorks	· Persuasion
+· HyperCard	· Astound
+* 
+
+
 02.23.21
 TIL: PP 42-49
 * Why bother with interativity?
