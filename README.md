@@ -11,7 +11,33 @@ Crawford's Lessons
 + Your designs should aspire to the ideal of metaphorically having sex with your users.
 + Fast turnaround is always better than slow turnaround.
 + The overall quality of an interaction depends on its depth, as well as speed
-+ 
+
+
+02.25.21
+TIL: https://docs.aws.amazon.com/lex/latest/dg/ex1-sch-appt-create-bot.html
+* Bots have an intent - that's the job to be done
+* There are muliple ways to phrase things (synonyms)
+* You need a "sorry, I didn't understand that" unhappy path to start
+* You can caputure selections and freetext data to improve the experience
+* You vesion the conversation experience just like any other software
+* You can use lambdas and models to enrich the conversation
+* Also: https://www.ucf.edu/news/6-things-know-themed-experiences/
+* A themed experience tells a story by creating an immersive narrative environment that is based on a popular book or film or an original story.
+* Not just a theme park, retail spaces, restaurants, museums, libraries, zoos and aquariums can all fit into this category — as long as they have created unique, themed environments that guests can explore.
+* http://www.inparkmagazine.com/what-should-themed-experience-graduates-know-say-and-do/
+* To have a successful career in the themed entertainment industry, students need to know how to collaborate within interdisciplinary teams, by knowing what other team members do, and having empathy for other viewpoints and perspectives.
+* From this advice and insight, we begin to form a sequence of study based upon four tenets.
+* > #1 – Context.
+* > #2 – Skills, aesthetics and creativity.
+* > #3 – Collaboration.
+* > #4 – The industry.
+* https://www.whitewaterwest.com/en/how-we-work/
+* Process:
+* > Understand
+* > Design
+* > Build
+* > Maintain
+* > Optimize
 
 02.24.21
 TIL: https://www.bu.edu/jlengel/desint.html
