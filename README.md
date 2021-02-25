@@ -38,6 +38,10 @@ TIL: https://docs.aws.amazon.com/lex/latest/dg/ex1-sch-appt-create-bot.html
 * > Build
 * > Maintain
 * > Optimize
+* Immersive Experience Studio
+* Create mid-sized themed experiences designed to engage guests for 1-4 hours — from design space and guest flow to timing and themed interaction.
+* Also: https://weareimmersive.co.uk/blog
+* 
 
 02.24.21
 TIL: https://www.bu.edu/jlengel/desint.html
