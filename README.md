@@ -12,6 +12,47 @@ Crawford's Lessons
 + Fast turnaround is always better than slow turnaround.
 + The overall quality of an interaction depends on its depth, as well as speed
 
+02.26.21
+TIL: https://www.wired.com/2015/03/disney-magicband/
+* If you’re wearing your Disney MagicBand and you’ve made a reservation, a host will greet you at the drawbridge and already know your name---Welcome Mr. Tanner! She’ll be followed by another smiling person---Sit anywhere you like! Neither will mention that, by some mysterious power, your food will find you.
+* Their MagicBands, tech-studded wristbands available to every visitor to the Magic Kingdom, feature a long-range radio that can transmit more than 40 feet in every direction.
+* The hostess, on her modified iPhone, received a signal when the family was just a few paces away. Tanner family inbound! 
+*  it all worked seamlessly, like magic.
+*  Walt Disney borrowed against his own life insurance to pay for Disneyland’s original design, and according to friends and family, he never seemed happier. It was his sandbox. 
+*  The MagicBands look like simple, stylish rubber wristbands offered in cheery shades of grey, blue, green, pink, yellow, orange and red. Inside each is an RFID chip and a radio like those in a 2.4-GHz cordless phone. 
+*  Part of the trick lies in the clever way Disney teaches you to use them---and, by extension, how to use the park. 
+*  Then, in the weeks before your trip, the wristband arrives in the mail, etched with your name—I’m yours, try me on. For kids, the MagicBand is akin to a Christmas present tucked under the tree, perfumed with the spice of anticipation. For parents, it’s a modest kind of superpower that wields access to the park.
+*  If you sign up in advance for the so-called "Magical Express," the MagicBand replaces all of the details and hassles of paper once you touch-down in Orlando. 
+*  Every new experience with technology gently nudges our notions of what we’re comfortable with.
+*  Just tap your MagicBand at the gate and swipe onto the rides you’ve already reserved. If you've opted in on the web, the MagicBand is the only thing you need.
+*  Its amazing how much friction Disney has engineered away
+* For Disney, the MagicBands, the thousands of sensors they talk with, and the 100 systems linked together to create MyMagicPlus turn the park into a giant computer---streaming real-time data about where guests are, what they’re doing, and what they want.
+* Disney is thus granted permission to explore services that might seem invasive anywhere else. 
+* Disney shrouds its creative process in secrecy. 
+* Though the team behind this sprawling platform eventually swelled to more than 1,000 people, the idea started years ago with a handful of insiders.
+* Meg Crofton, then president of Walt Disney World Resort, told them to root out all the friction within the Disney World experience. “We were looking for pain points,” she says. “What are the barriers to getting into the experience faster?”
+* “They came back with a drawing of the Magic Kingdom without turnstiles,” Crofton says. But, she adds, there was a “domino effect in making one decision.
+* Within the company, this cascade of new technologies, and the dream of overhauling the park, thrilled some and threatened others, who fretted over the sheer complexity of it all.
+* Nike was using it in virtual events like the Human Race, a global, virtual 10K run that used wearers’ pedometer data. What if Disney did something like that.
+* They assembled Frankenstein-like mock-ups using spare parts cribbed from hardware catalogs and torn-down gadgets.
+* Great swathes of MyMagicPlus—the MagicBands and their readers, along with pieces of the web portal for making ride reservations—already worked. The bands themselves had been designed, as had the kiosks that would light up with a pleasing chime anytime you swiped.
+* Disney was adamant that the band’s design reinforce two key values: Everyone is equal in the park, and everyone is welcome.
+* This was represented by the single band with a tearaway option that fit every wrist.
+* It took one engineer six months to get the tear-away channel just right.
+* The design has a novel and clever cue: Simply touch the circled Mickey icon on the band to the circled Mickey icon on the reader. When everything works, the reader flashes green and emits a pleasing tone; if something goes wrong, it glows blue—never red. Red lights are forbidden at Disney, as they imply something bad happened. Nothing bad can happen at Disney World.
+* What followed was two years of grinding work transforming a scripted prototype into a real-world performance, then another 18 months rolling it out in the park. 
+* koan: a paradoxical anecdote or riddle, used in Zen Buddhism to demonstrate the inadequacy of logical reasoning and to provoke enlightenment.
+* You make people happier not by giving them more options but by stripping them away.
+* “The whole system gave Disney a way of understanding the business,” says Franklin, who stepped down last July as Disney’s executive vice president of next-generation experience. “Knowing we need more food here, how people are flowing through the park, how people are consuming the experiential product.”
+* It also allows Disney to optimize employees. The goal was to create a system that would essentially replace the time spent fiddling with payments and tickets for moments of personal interactions with visitors. The MagicBands and MyMagicPlus allow employees to “move past transactions, into an interactive space, where they can personalize the experience,” Crofton says. What started as a grand technology platform has inevitably changed the texture of the experience.
+* “Walt Disney World is vast. There’s more to do than you could do in a month,” Staggs says. “That choice is overwhelming.”
+* There are missions in a vacation,” Staggs says. In other words, Disney knows that parents arrive to its parks thinking: We have to have tea with Cinderella, and where the hell is that Buzz Lightyear thing, anyway? In that way, the park isn’t a playground so much as a videogame, with bosses to be conquered at every level. The MagicBands let you simply set an agenda and let everything else flow around what you’ve selected. “It lets people’s vacations unfold naturally,” Staggs says. “The ability to plan and personalize has given way to spontaneity.” And that feeling of ease, and whatever flows from it, just might make you more apt to come back.
+* The MagicBand contains sensors that let guests swipe onto rides and allow Disney to pinpoint their location. At Be Our Guest, they’re what enable the radios in the table and ceiling to triangulate your location so your server can find you. If Disney decides to install those sensors throughout the park, a new world of data opens up. They could have Mickey and Snow White find you. They might use the park’s myriad cameras to capture candid moments of your family—enjoying rides, meeting Snow White—and stitch them together into a personalized film. (The product teams called this the Story Engine.)
+* But they might also know when you’ve waited too long in line and email you a coupon for free ice cream or a pass to another ride.
+* And with that, they’ll have hooked the white whale of customer service: Turning a negative experience into a positive one. 
+* “This is about the experiential Internet. The guest doesn’t need to know how it happened. It’s about the magic of the food arriving.”
+
+These are the experiences that many more designers will soon be striving for: invisible, everywhere, and, in a word, mundane. Which is its own kind of magic.
 
 02.25.21
 TIL: https://docs.aws.amazon.com/lex/latest/dg/ex1-sch-appt-create-bot.html
