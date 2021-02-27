@@ -12,7 +12,26 @@ Crawford's Lessons
 + Fast turnaround is always better than slow turnaround.
 + The overall quality of an interaction depends on its depth, as well as speed
 
-02.26.21
+
+02.27.21
+TIL:https://blog.westerndigital.com/driving-immersive-experience-virtual-augmented-reality/
+* AR & VR = "creative implementations" of the technology in gaming, shopping, entertainment, and medical procedures
+* VR: create the illusion that you’re in an utterly new world.
+* AR: overlay digital information and other content onto a real-world
+* there are demands for optimal display resolutions and capabilities that go far beyond what’s necessary when viewing a smartphone at a normal distance
+* make very dynamic changes to the displays in real time, all at levels of detail and complexity that have never been required before by mainstream applications
+* technology in those products simply wasn’t fast enough to meet the extremely high requirements that a good VR or AR experience demands—especially when you incorporate the need to react to how you move around in real time
+* it’s absolutely essential to make these head-mounted displays as light as possible
+* Consumers are going to be looking to purchase smartphones that can deliver immersive, compelling augmented reality experiences, so product designers need to plan accordingly.
+* Looking forward, we can expect to see even higher-resolution displays, faster response time, and significantly stronger computing horsepower in even smaller, lighter weight head-worn products
+* Also, https://www.theverge.com/2020/8/20/21377620/netflix-stranger-things-immersive-theater-drive-into-experience-location
+* drive-into experience
+* transforming a series of buildings in downtown Los Angeles into what is effectively a cross between a theme park and a live theater show. 
+* You won’t have to leave your car, but there will be moments when you can stop to watch various actors in scenes that happen concurrently, in the style of influential immersive theater productions like Sleep No More. (Realistically, it’s probably more like your standard haunted house or walk-through theme park experience.)
+
+
+
+4.26.21
 TIL: https://www.wired.com/2015/03/disney-magicband/
 * If you’re wearing your Disney MagicBand and you’ve made a reservation, a host will greet you at the drawbridge and already know your name---Welcome Mr. Tanner! She’ll be followed by another smiling person---Sit anywhere you like! Neither will mention that, by some mysterious power, your food will find you.
 * Their MagicBands, tech-studded wristbands available to every visitor to the Magic Kingdom, feature a long-range radio that can transmit more than 40 feet in every direction.
