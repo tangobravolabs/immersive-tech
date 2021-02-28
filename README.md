@@ -27,6 +27,8 @@ Crawford's Lessons
 *  The Museum of Modern Art (MoMA), in New York City, gives patrons “an unauthorized gallery concept aimed at democratizing physical exhibition spaces, museums, and the curation of art within them.”
 * For as little as $8, you can view the exhibit with a VR viewer to take in Wonder. 
 * Digital technology is only getting more and more museums on board as they attract a younger crowd.
+* Also, https://www.sciencebuddies.org/science-fair-projects/project-ideas/compsci_p058/computer-science/interactive-toy-raspberry-pi
+* You an use magnets to drive interactions with a Raspberry Pi
 
 
 02.27.21
