@@ -11,6 +11,22 @@ Crawford's Lessons
 + Your designs should aspire to the ideal of metaphorically having sex with your users.
 + Fast turnaround is always better than slow turnaround.
 + The overall quality of an interaction depends on its depth, as well as speed
++ 
++ 
+
+
+02.28.21
+* TIL: https://www.lamasatech.com/blog/creating-digital-exhibitions/
+*  we’re seeing a total decline in visitor numbers since the 2016-2017 year. In fact, the National Portrait Gallery is down 11% in visits and the National History Museum is down 14%. 
+* It’s all about curating the right technologies for your museum guests
+*  The guests point the device at certain museum sculptures, paintings, and other artefacts, and are able to learn more about them from where they are standing. 
+*  The device is also helpful for navigating the large museum. 
+*  there is a variety of digital screen-based activities all in a room within the large gallery
+*  Some activities require physical movement in order to operate
+*  These activities include: virtual painting, collaging, researching artists, front-camera self-portraits with editing capabilities, virtual pottery, using AI to draw and match shapes to items within the gallery system
+*  The Museum of Modern Art (MoMA), in New York City, gives patrons “an unauthorized gallery concept aimed at democratizing physical exhibition spaces, museums, and the curation of art within them.”
+* For as little as $8, you can view the exhibit with a VR viewer to take in Wonder. 
+* Digital technology is only getting more and more museums on board as they attract a younger crowd.
 
 
 02.27.21
