@@ -14,8 +14,33 @@ Crawford's Lessons
 + 
 + 
 
+03.01.21
+TIL: https://www.artistsnetwork.com/art-techniques/composition/telling-a-story-on-canvas/
+* Sometimes the story starts on a single canvas or sheet of paper and doesn’t end until there is a gallery full of paintings, a suite of drawings, a set of illustrations, a series of comic strips or an entire graphic novel.
+* “Narrative is like an infrastructure that you can come back to and get more and more out of it each time. Each work turns out rich by itself, but there’s also something to reach for,” says artist David Sandlin. He is also an adviser for second-year graduate students in the Illustration as Visual Essay program at the School of Visual Arts, in New York City.
+* discovering what is integral for all artists to discover — the kind of artists they want to be and what form their work will take
+* “There is something about communicating visually that is incredibly powerful, but sometimes the words seem overwhelming. I often start with images, building the story from the images I create. That way, the viewer can have their own personal interpretation.”
+* Even if they are not aware of it, visual artists often develop some sort of narrative in their work. 
+* At its root, it is about communicating and connecting with the viewer, which many artists aspire to do.
+* Michelangelo is one of the greatest artists in history. [Every] work he produced was informed by a story. Working in an unclear manner with no effort to reach your audience can be problematic,” says J.P. Peer,
+* There seems to be an undeniable affinity between figurative and representational artwork and the presence of a narrative.
+* What can differ is if it is one where fantasies come to the forefront, or it is steeped in representational realism. 
+* Also, https://medium.com/conscious-paradoxalism/the-role-of-storytelling-in-the-visual-arts-70717a2f40e8
+* Once upon a time, the majority of humanity was illiterate. 
+* You had your storytellers, true, but people are very visual creatures.
+* Catholic churches are full of images for exactly that reason. Statues and paintings told the stories of the stations of the cross, the conversion of Saul to Paul, and other biblical stories
+* If you can read and create images in your own imagination (note the word “image” in “imagination”), you don’t need someone else’s images to help you understand the story.
+* We have become woefully ignorant of the foundational stories of European civilization — and we haven’t made up for it in the least by becoming knowledgeable of the foundational stories of other civilizations.
+* It’s not uncommon to have to tell people the stories behind these paintings. It’s also not uncommon to hear people say that paintings like these are “unusual.” This is how foreign storytelling images have become. 
+* We are at a point where the art has ceased telling stories, our schools have ceased telling stories, and our culture overall has bought into the cult of originality to such an extent that we don’t see a great many films or TV shows depicting these stories. 
+* There is a real opening in the arts for returning to storytelling. 
+* f you look at the poem I wrote, you will note that I integrate knowledge we have of the Minoan empire into the story of Europa. That makes the mythology more rooted in historical reality. There is now a dialogue created among the painting, the original myth, history, and anthropology within my poem.
+* This is the power of images in the arts. 
+* The arts are able to do this by concentrating our attention through the concretization of our concepts as created by the artist.
+* Realistic photos or film cannot reform our brains the way art can, even if the stories they tell do so in other ways entirely.
+* 
 
-02.28.21
+5.28.21
 * TIL: https://www.lamasatech.com/blog/creating-digital-exhibitions/
 *  we’re seeing a total decline in visitor numbers since the 2016-2017 year. In fact, the National Portrait Gallery is down 11% in visits and the National History Museum is down 14%. 
 * It’s all about curating the right technologies for your museum guests
