@@ -11,8 +11,36 @@ Crawford's Lessons
 + Your designs should aspire to the ideal of metaphorically having sex with your users.
 + Fast turnaround is always better than slow turnaround.
 + The overall quality of an interaction depends on its depth, as well as speed
++ Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 + 
-+ 
+
+
+03.02.21
+TIL: https://xd.adobe.com/ideas/principles/emerging-technology/ux-design-principles-for-augmented-reality/
+* Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
+* When it comes to building AR apps, the concept of “measure twice, cut once” becomes especially important. Before diving into AR design and development, it’s important to have a clear answer to the question, “What do I want to achieve with this AR app?” 
+* AR in an app should be a layer of added value that reduces the time required to complete tasks.
+* Offer AR features only on capable devices.
+* The great thing about AR is that it’s not limited to the device screen. The device screen becomes more like a window that we use to see the world.
+* Set inital expectations for space required. Nice diagram: https://xd.adobe.com/ideas/wp-content/uploads/2019/12/space-559x550.jpg.webp
+* Since you will integrate an AR design solution into the users’ environment, you want it to feel as natural as possible
+* Sometimes users can get too immersed in an AR experience, so they ignore physical objects around them. As a result, they can bump into objects or people. To prevent such behavior, you need to build in reminders for users to check their surroundings.
+* it’s recommended to design experience that guides users to move forward, not backward.
+* Users will hold mobile devices while interacting with your product. Thus, make comfortable designs to prevent physical strains. For example, holding a device at a certain distance or angle for longer periods can be fatiguing. To prevent causing fatigue, consider keeping sessions short, and add periods of downtime to help users get relaxed
+* People tend to spend more time in experience if they are afraid to lose their progress. 
+* Let users pause or save their current progress in the AR app. Make it easy to continue an experience where they left off, even if they switch their physical location.
+* Usability testing should be a critical step in the product design process.
+* AR experiences should be designed to require as little physical input from users as possible. 
+* A good AR experience immerses users into interactions. It only happens when people believe that what they see on the screen is real.
+* To help users believe that the AR world is real, make sure your app updates the scene 60 times per second, so objects don’t appear to flicker. 
+* Audio is a multipurpose tool. Sound effects can improve the usability of a product. For example, it’s possible to add a sound effect to confirm that a user picked up a virtual object. Background music can also help envelop people in the virtual world by creating the right mood.
+* Many users have never experienced an AR environment before. When users encounter their first AR experiences, they will need guidance on how to interact with it. Onboarding plays a key role in creating a great UX.
+* Show instructions or tips on how to perform specific things in the context of actual interactions. 
+* For example: when a user is interacting with an AR game, provide the user with steps and tips that they can use as they progress through various levels in order to break apart the information.
+* Use a combination of visual cues, motion, and animation to teach users. Illustrate and use in-app experiences as much as possible.
+* Use familiar UI patterns
+* , take advantage of your users’ existing knowledge. A majority of mobile users know how to tap, drag and swipe objects. And you can use those interaction patterns in your UI. By doing that you won’t have to teach the user a whole new way to perform simple tasks.
+
 
 03.01.21
 TIL: https://www.artistsnetwork.com/art-techniques/composition/telling-a-story-on-canvas/
