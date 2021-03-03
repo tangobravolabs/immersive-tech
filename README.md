@@ -15,6 +15,44 @@ Crawford's Lessons
 + 
 
 
+03.03.21
+TIL: https://neilpatel.com/blog/creating-content-that-converts-the-step-by-step-guide/
+* According to Content Marketing Institute, “Business-to-business (B2B) marketers who have a documented strategy are more effective and less challenged with every aspect of content marketing
+* Step #1:  Find content ideas that are proven to convert.
+* Step #2:  Optimize your copy like you would for a landing page.
+* Value Proposition: A well-defined problem is half-solved. This is what propels your conversions. You can make your content highly converting when you define a specific problem and provide practical action steps to solve it.
+* The value proposition is the promise of value to be delivered and the belief from a customer that value will be experienced.
+* Step #3:  Craft attention-grabbing headlines.
+* Also: https://unity3d.college/2017/07/26/how-to-make-games-making-the-transition-from-business-apps-and-web-development-into-gaming/
+* Video games are the driving force behind many programmers aspirations.
+*  In-fact I’ve spent a lot of my career working on business apps, high traffic web sites, hardware test tools, and a variety of other non-game software.  And in that time, I’ve met dozens of ‘business programmers’ who were inspired to learn the craft by video games.  Many of them also had long run deep desires to one day program their own games.  But as professional developers, with bills, families, and responsibility, they often struggled to take the dive.  A couple of them attempted to make the transition into ‘game development’, but most struggled to get started, and that’s for a good reason.
+* If you learn the differences and embrace them, you can quickly take your existing skills and start building games of your own. 
+* When I say embrace the engine, I mean really embrace it.  Don’t jump in with the plan to start building your game as the first project you do.  Instead, when you start out, build a bunch of very different games from samples, guides, video tutorials, or anywhere else.  Build small things that can be completed in a day or two.
+* Imagine you were teach a new junior programmer your craft. 
+* If you’re a web developer, what would you recommend they do first?  Build their ‘facebook but better clone’?  Or setup a simple sample page using your framework of choice?
+*  Building these small games will teach you a lot. 
+*  Another area I’ve seen almost everyone struggle with is basic movement. 
+*  Game engines do plenty of things really well, and animation is one of the things they do best.
+*  The same applies for physics.. let the game engine do the work.
+*  In most programming environments, there’s a hidden loop running.  That loop is pumping messages and events to your components, making your object interactions clean and seamless, calling your web controller methods for you.  This abstraction is extremely helpful for business and web apps, you wouldn’t want to write that code yourself and you don’t need to.
+*  In Unity, the engine calls methods on every gameobject that’s active in your scene, without you telling it to.
+*  These methods call at different times and you need to know how to use them.  For example the Awake() method is called early in the objects lifecycle and is often used to cache references to other objects & initialize state.
+*  Wait, what’s the difference between a collision and a trigger??  This is exactly the kind of thing that you want to learn early.. (triggers don’t do physics interactions like bouncing/stopping and just call code, while collisions act as you’d expect physics to do)
+*  That’s because methods like Update() are called every frame.  So if your game runs at 10FPS, Update is called 10 times a second.  If it runs at 300fps, well you’ll call Update 300 times a second..
+*  code is only a tiny portion of your project. 
+*  you start with a scene, in that scene you can do your setup, or in many cases the scene will already be setup and ready to go.. with little to no code initialization required. That may sound disturbing.  There’s no single place of truth in code that defines how your app starts, where dependencies go or what order to initialize everything in. It’s not in code… but it is in your scene.  Your scene is where you setup these things.
+*  Scenes exist for a reason, to make game development clean and quick.
+*  Another big difference with game development is that engines are generally driven by a component based system.  
+*  The biggest benefit of component based development is reusability.  If you develop your components to be small and generalized, you can often mix and match them on a gameobject to create the behavior you want.  Don’t expect to do this right away or in every case, but keep it at the forefront of your mind when writing your own components.
+*   If you’re an advocate of solid principals, they can be very helpful.  I’d especially focus on the single responsibility principal.
+*   Another skill I’ve found to be more prevalent in the web world is good use of design patterns. 
+*   A simple example of this would be a knowing when to build a simple state machine instead of a giant switch statement…
+
+
+  
+
+
+
 03.02.21
 TIL: https://xd.adobe.com/ideas/principles/emerging-technology/ux-design-principles-for-augmented-reality/
 * Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
