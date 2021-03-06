@@ -1,5 +1,7 @@
 # immersive-tech
 
+
+
 Crawford's Lessons
 + Stories are complex structures that must meet many hard-to-specify requirements
 + Stories are about people, not things
@@ -14,8 +16,30 @@ Crawford's Lessons
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 + 
 
+03.06.21
+TIL:https://medium.com/volograms/volumetric-holograms-in-xr-storytelling-next-level-storytelling-with-real-people-in-immersive-b34f3bc84ced
+* Visionaries like you push the boundaries of communication.
+* The difference, perhaps, between ‘storytelling’ and ‘story living’.” Luke Buckmaster — on immersive and interactive filmmaking
+* People seek to be immersed, to be active participants of the stories they experience, so they can walk around and explore. Be embodied. 
+* How many stories do you create or share that do not have someone in them?
+*  Photography did the trick for everything static and flat from newspapers to your Instagram grid. Video, still flat, set us in motion: from films to TikTok clips. But when it comes to AR and VR, how do we bring people into our stories?
+*  Sadly, when actually attempted, efforts to bring real people to AR and VR often turn out uncanny at best, making it better to stay low-key (think of video cut-outs integrated virtually in the space) than to fail trying something more ambitious — see this for a more complete analysis of alternatives.
+*  Finding the right solution:
+*  > Fidelity: extent to which the appearance of the virtual human is similar to a real human.
+*  > Animatability: extent to which the virtual human’s movements can be changed after creation or capture.
+*  > Immersiveness: extent to which the user loses the awareness that they are not looking at a real human
+*  > Cost: amount of financial and other resources needed to create or capture the virtual human.
+*  > Time: period needed from when the virtual human creation or capture starts until it is ready to integrate into the content.
+*  https://miro.medium.com/max/700/1*c4Di2yDwGkxjnPMD_abJ9g.png
+*   This means real people brought directly into digital, not in a flat way, but rather as full-3D content that can be seen from any perspective. In other words, with volumetric you can finally bring real people into your AR and VR stories, with their performances to be experienced in a completely immersive way. Volumetric video helps you create compelling stories like never before.
+*   All in all, once the sequence is captured, you can integrate it within your AR and VR experiences and work with it as a normal 3D-asset. Your experience will still be compatible with your standard tools (Unity, Unreal, etc.) and the full range of devices: from the fanciest headsets to a standard smartphone with WebXR
+*   The combination of so-called 6-degrees-of-freedom (6DOF) content within a long-format 3DOF production 
+*   Its smart combination of this new format with 360 videos is a great storytelling option.
+*   Terminal 3 — This thought-provoking piece by disruptive studio 1RIC is especially interesting for two reasons. First, it uses volumetric video to make awareness-raising pieces more compelling through next-level, emotional human interactions. Second, it uses a light-weight and low-budget volumetric capture technology.
+*   https://1ric.com/terminal-3
+*   
 
-03.03.21
+3.03.21
 TIL: https://neilpatel.com/blog/creating-content-that-converts-the-step-by-step-guide/
 * According to Content Marketing Institute, “Business-to-business (B2B) marketers who have a documented strategy are more effective and less challenged with every aspect of content marketing
 * Step #1:  Find content ideas that are proven to convert.
