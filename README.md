@@ -27,6 +27,7 @@ TIL: https://filmindustry.network/8-gigantic-problems-film-industry-fixed/26044
 * Long working hours and pay issues
 * Film crews not knowing their legal rights
 * Also: https://spin.atomicobject.com/2020/06/28/learn-indie-game-dev/
+
 **1. Pick a (Small) Idea**
 * The best way to start learning game dev is to pick a simple idea or genre and narrow it down to the very core features it needs to be playable
 * Making simple games like this is the best way to start growing
