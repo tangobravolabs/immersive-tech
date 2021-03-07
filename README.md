@@ -27,7 +27,33 @@ TIL: https://filmindustry.network/8-gigantic-problems-film-industry-fixed/26044
 * Long working hours and pay issues
 * Film crews not knowing their legal rights
 * Also: https://spin.atomicobject.com/2020/06/28/learn-indie-game-dev/
-* **1. Pick a (Small) Idea**
+**1. Pick a (Small) Idea**
+* The best way to start learning game dev is to pick a simple idea or genre and narrow it down to the very core features it needs to be playable
+* Making simple games like this is the best way to start growing
+* having a completed game, no matter how small, will help you stay motivated to keep learning.
+* **2. Pick an Engine or Framework**
+* Game engines (like Unity or Unreal) typically come with graphical interfaces and the most built-in functionality.
+* Frameworks and libraries are usually only code, written in existing programming languages
+* The best advice I can give is to find the option that lets you focus the most on game development.
+**3. Create the Prototype**
+* Your goal is to create a minimum viable product (MVP). 
+* Strip out all the features that aren’t necessary for your core mechanic or idea. 
+* Don’t even worry about art or sound right now; use a basic square sprite for everything (or something equally simple).
+* This not only helps you limit your game’s scope, but it also provides valuable experience in learning to make games fun.
+* Your core mechanics are always the biggest contributor to how fun your game is.
+**4. Find Assets**
+* Sites like itch.io and OpenGameArt have lots of great resources. 
+* You’ll notice that adding real assets (especially sounds) can have a huge impact on the feel of your game.
+**5. Turn it into a Complete Game**
+* Implement a full game loop, including winning, losing, and starting over.
+* The most valuable thing you can do to become a better game maker is to finish your game. 
+* You’ll be blown away by how much of a difference having a complete game makes.
+* There’s nothing more motivating than having something you can share with others and get feedback on.
+* One of the biggest hurdles for most people getting into game development is that they never learn how to finish a game.
+* Getting used to scoping your projects realistically (so that you actually have a chance of finishing them) and pushing yourself to complete the entire game loop is a huge step towards learning to make this a normal part of your development routine.
+**6. Start Something New!**
+* The best way to learn to make games is to make games, no matter how simple or small. 
+* Find new mechanics or ideas you haven’t tried before, come up with the most simple game that uses those ideas, and make it.
 * 
 
 03.06.21
