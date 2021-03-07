@@ -16,6 +16,20 @@ Crawford's Lessons
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 + 
 
+03.07.21
+TIL: https://filmindustry.network/8-gigantic-problems-film-industry-fixed/26044
+* The devaluation of film as a product
+* Film franchise fatigue
+* Lack of government grants for short films
+* Tax breaks that don't help smaller film productions
+* Runaway digital piracy affecting filmmaker profits
+* Lack of access to content in different markets
+* Long working hours and pay issues
+* Film crews not knowing their legal rights
+* Also: https://spin.atomicobject.com/2020/06/28/learn-indie-game-dev/
+* **1. Pick a (Small) Idea**
+* 
+
 03.06.21
 TIL:https://medium.com/volograms/volumetric-holograms-in-xr-storytelling-next-level-storytelling-with-real-people-in-immersive-b34f3bc84ced
 * Visionaries like you push the boundaries of communication.
