@@ -14,7 +14,40 @@ Crawford's Lessons
 + Fast turnaround is always better than slow turnaround.
 + The overall quality of an interaction depends on its depth, as well as speed
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
-+ 
+
+03.08.21
+* TIL: https://www.zappar.com/blog/how-augmented-reality-affects-brain/
+* Also: LAYERED REPORT https://d2j4z507ms5wl7.cloudfront.net/zappar_mindshare-layered-report.pdf
+* List of suprise and delight use cases
+01. Mobile Gaming
+2. Storytelling
+3. How to
+4. Visualize big ticket items
+5. Location-based learning
+6. Task fufillment
+7. Try before you buy
+8. Wayfinding
+9. Services info
+10. Connected packaging
+11. Translation
+12. Education
+13. Social Communication
+* AR applications will evolve from one-off fun to include multi-use utility.
+* We found that, across the series of cognitive function measures, the AR experiences delivered almost double (1.9 times) the levels of engagement compared to their non-AR equivalent (see Fig. 07)
+* AR drives high levels of visual attention in the brain (almost double that of non-AR tasks)
+* The only measure for which the AR experience was lower was ‘approach / withdrawal’ (which captures the extent to which the user wants to move towards or away from a stimulus). The lower score here may indicate the sense of surprise that occurs when people start an AR experience
+* Reasons to use an AR app:
+01. Status
+2. Fun
+3. Affiliation
+4. Security
+5. Control
+6. Performance
+* Consumers will come to expect all of the surfaces around them to be embedded with additional layers of content.
+* Soon brands will start thinking differently about the space around us, as everything from objects and buildings, to everyday products and even our bodies becomes a potential trigger for content. 
+* 68% of AR users believe AR would be most useful if it ‘can figure out the right information to show me at the right time all by itself’
+* AR will be a key tool for assistance, helping life to flow by removing everyday friction.
+* The ability to tell compelling and engaging stories will become increasingly more important as people’s brains come to expect everyday surfaces, products and packaging to be augmented.
 
 03.07.21
 TIL: https://filmindustry.network/8-gigantic-problems-film-industry-fixed/26044
