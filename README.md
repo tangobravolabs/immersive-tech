@@ -15,6 +15,37 @@ Crawford's Lessons
 + The overall quality of an interaction depends on its depth, as well as speed
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 
+03.09.21
+* TIL: https://www.studiobinder.com/blog/what-is-a-storyboard/
+* Alfred Hitchcock was notorious for his 'boards' — precisely crafting the movie in his head and on the page.
+* All the interesting work had already been done.
+* A storyboard is a visual representation of a film sequence and breaks down the action into individual panels. It is a series of ordered drawings, with camera direction, dialogue, or other pertinent details. It sketches out how a video will unfold, shot by shot.
+* Traditional storyboards are what we see above — basic pencil sketches that include detailed information like arrows for camera movement, characters, props, etc.
+* There are also thumbnail style storyboards that don’t have any writing. 
+* Most of the time, a storyboard is constructed to match what's already been written in the script but they can also become deeply tied to the actual storytelling process
+* An animation storyboard and animatics are fundamental steps, not just to refine the specific animation and movements but to craft story beats and character behavior at the same time.
+* This "graphic novel" approach was his initial guide to crafting the action, story and characters.
+* ALso: https://www.studiobinder.com/storyboard-creator/
+* Also: https://www.studiobinder.com/blog/how-to-make-storyboard/
+* Drawing and formatting fears, technical limitations, concerns about budget — there are a lot of reasons to avoid storyboarding.
+01. Mark up your screenplay
+02. Determine your aspect ratio
+03. Sketch out your subject
+04. Draw a background - Along with a subject or character, you need a background in your image to orient viewers. Not every panel requires an elaborate background.
+05. Add arrows for motion - Learning how to make a storyboard could be rephrased as: “Do you like drawing arrows everywhere?" If you want to know how to write a storyboard as a motion sequence, you can string together your individual images as a video. Then play them back.
+06. Add camera movement - Adding camera movement to storyboards pre-visualizes how, when, and where the camera will move — as well as what we’ll focus on. When we add camera movement to our storyboards, we’ll select shot size, shot type, and lens details as well. Yes, just like you drew arrows to show the action, you’ll need arrows to describe how the camera moves.
+07. Add shot numbers
+08. Rinse and repeat
+09. Organize and share storyboards
+* An animatic is a string of storyboard images edited together with sound to illustrate how a sequence will flow in motion. It’s a next-level technique after storyboarding.
+* Edit storyboard images in an editing solution like Adobe Premiere or Final Cut Pro.
+* Consider adding music tracks, sound effects and dialogue.
+* Your storyboards play like a slideshow. Timing and pacing is conveyed in a storyboard sequence.
+* Camera movements:
+> * PANNING
+> * PUSHING OUT
+> * PUSHING IN
+
 03.08.21
 * TIL: https://www.zappar.com/blog/how-augmented-reality-affects-brain/
 * Also: LAYERED REPORT https://d2j4z507ms5wl7.cloudfront.net/zappar_mindshare-layered-report.pdf
