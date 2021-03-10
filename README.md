@@ -15,7 +15,28 @@ Crawford's Lessons
 + The overall quality of an interaction depends on its depth, as well as speed
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 
-03.09.21
+03.10.21
+* Animatic: a preliminary version of a movie, produced by shooting successive sections of a storyboard and adding a soundtrack.
+* https://boords.com/animatic/what-is-the-definition-of-an-animatic-storyboard
+* The goal of an animatic is to define the timing for a piece of moving image. When used with a soundtrack, they're a quick and easy way to get a sense of a finished piece of moving image.
+* Timings changes are used to create a sense of pace.
+* Pre-production is the multi-stage process which happens before a film or animation comes to life.
+* >  Stage 1	Concepting	Define your idea
+* >  Stage 2	Scripting	Draft your story
+* >  Stage 3	Storyboarding	Plan your scenes
+* >  Stage 4	Animatic	Define pace & timing
+* >  Stage 5	Design	Define visual approach
+* >  Stage 6	Logistics	Plan the production process
+* Animatics use the same images as storyboards, but stitched together in sequence and rendered as video
+* Animatics are used to plan an animation, and use low-resolution images to convey timing, rather than the look and feel of the final piece.
+* Animatics are quick to produce
+* Animatics are a reference point
+* Animatics help you make quick changes
+* Animatics create consensus
+* Animatics save you time (and money)
+
+
+3.09.21
 * TIL: https://www.studiobinder.com/blog/what-is-a-storyboard/
 * Alfred Hitchcock was notorious for his 'boards' — precisely crafting the movie in his head and on the page.
 * All the interesting work had already been done.
@@ -28,15 +49,15 @@ Crawford's Lessons
 * ALso: https://www.studiobinder.com/storyboard-creator/
 * Also: https://www.studiobinder.com/blog/how-to-make-storyboard/
 * Drawing and formatting fears, technical limitations, concerns about budget — there are a lot of reasons to avoid storyboarding.
-01. Mark up your screenplay
-02. Determine your aspect ratio
-03. Sketch out your subject
-04. Draw a background - Along with a subject or character, you need a background in your image to orient viewers. Not every panel requires an elaborate background.
-05. Add arrows for motion - Learning how to make a storyboard could be rephrased as: “Do you like drawing arrows everywhere?" If you want to know how to write a storyboard as a motion sequence, you can string together your individual images as a video. Then play them back.
-06. Add camera movement - Adding camera movement to storyboards pre-visualizes how, when, and where the camera will move — as well as what we’ll focus on. When we add camera movement to our storyboards, we’ll select shot size, shot type, and lens details as well. Yes, just like you drew arrows to show the action, you’ll need arrows to describe how the camera moves.
-07. Add shot numbers
-08. Rinse and repeat
-09. Organize and share storyboards
+6. Mark up your screenplay
+7. Determine your aspect ratio
+8. Sketch out your subject
+9. Draw a background - Along with a subject or character, you need a background in your image to orient viewers. Not every panel requires an elaborate background.
+10. Add arrows for motion - Learning how to make a storyboard could be rephrased as: “Do you like drawing arrows everywhere?" If you want to know how to write a storyboard as a motion sequence, you can string together your individual images as a video. Then play them back.
+11. Add camera movement - Adding camera movement to storyboards pre-visualizes how, when, and where the camera will move — as well as what we’ll focus on. When we add camera movement to our storyboards, we’ll select shot size, shot type, and lens details as well. Yes, just like you drew arrows to show the action, you’ll need arrows to describe how the camera moves.
+12. Add shot numbers
+13. Rinse and repeat
+14. Organize and share storyboards
 * An animatic is a string of storyboard images edited together with sound to illustrate how a sequence will flow in motion. It’s a next-level technique after storyboarding.
 * Edit storyboard images in an editing solution like Adobe Premiere or Final Cut Pro.
 * Consider adding music tracks, sound effects and dialogue.
