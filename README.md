@@ -15,6 +15,32 @@ Crawford's Lessons
 + The overall quality of an interaction depends on its depth, as well as speed
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 
+
+03.11.21
+TIL: https://medium.com/chialab-open-source/ar-js-the-simpliest-way-to-get-cross-browser-ar-on-the-web-8f670dd45462
+*  AR.js is a great project with over 10k stars on Github, that makes easy and fun to develop augmented reality apps with web technologies.
+*  https://github.com/jeromeetienne/AR.js
+*  Performance, ~60 FPS on my two-year-old phone (!)
+*  Compatibility, it is cross-browser, it works on every phone browser (and obviously desktop)
+*  Simplicity, it is a wrapper of different frameworks that makes web AR developing very easy. It is built on top of a-frame and three.js.
+*  AR.js works with markers (not always, but if we wanna be cross-browser, we have to use markers)
+*  Markers are a sort of simplified qr-codes.
+*  custom markers
+*  > The maximum resolution of a marker is 16x16 pixels
+*  > They must be square in shape
+*  > They cannot have white/transparent areas, only light grey (e.g. #F0F0F0)
+*  > They cannot contain colors, only black and light grey
+*  > They have to contain simple text, like one letter, a number, or a symbol.
+*  You may use this online tool to generate your custom markers. If you analyze the “.patt” output file, you will find out that the given image is described with a set of characters
+*  https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+*  Markers can also be barcodes. 
+*   It is suggested to generate markers based on a matrix with an high “hamming distance” (see this table), so the camera can recognize them better
+*   online generator of barcode markers I used for the following example.
+*   https://au.gmented.com/app/marker/marker.php
+*    An approach based on markers is not a real limitation, but rather a paradigm that suits well for an incredible range of use cases.
+*    As AR.js shows us, it’s not necessary to have another device over a mobile phone to experience AR, nor to download a third party app (that a common user will surely uninstall soon after, or that probably they won’t download at all)
+*    
+
 03.10.21
 * Animatic: a preliminary version of a movie, produced by shooting successive sections of a storyboard and adding a soundtrack.
 * https://boords.com/animatic/what-is-the-definition-of-an-animatic-storyboard
