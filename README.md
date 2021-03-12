@@ -16,6 +16,18 @@ Crawford's Lessons
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 
 
+03.12.21
+TIL: https://developer.apple.com/augmented-reality/arkit/
+* The advanced scene understanding capabilities built into the LiDAR Scanner allow this API to use per-pixel depth information about the surrounding environment
+* Location Anchoring allows you to anchor your AR creations at specific latitude, longitude, and altitude coordinates.
+* Track up to three faces at once using the TrueDepth camera to power front-facing camera experiences like Memoji and Snapchat.
+* Create a topological map of your space with labels identifying floors, walls, ceilings, windows, doors, and seats. This deep understanding of the real world unlocks object occlusion and real-world physics for virtual objects, and also gives you more information to power your AR workflows
+* The LiDAR Scanner enables incredibly quick plane detection, allowing for the instant placement of AR objects in the real world without scanning. Instant AR placement is automatically enabled on iPhone 12 Pro, iPhone 12 Pro Max, and iPad Pro for all apps built with ARKit, without any code changes.
+* AR content realistically passes behind and in front of people in the real world, making AR experiences more immersive while also enabling green screen-style effects in almost any environment.
+* Capture the motion of a person in real time with a single camera. By understanding body position and movement as a series of joints and bones, you can use motion and poses as an input to the AR experience
+* You can simultaneously use face and world tracking on the front and back cameras, opening up new possibilities.
+* Detect up to 100 images at a time and get an automatic estimate of the physical size of the object in the image. 3D object detection is more robust, as objects are better recognized in complex environments. And now, machine learning is used to detect planes in the environment even faster.
+
 03.11.21
 TIL: https://medium.com/chialab-open-source/ar-js-the-simpliest-way-to-get-cross-browser-ar-on-the-web-8f670dd45462
 *  AR.js is a great project with over 10k stars on Github, that makes easy and fun to develop augmented reality apps with web technologies.
@@ -39,7 +51,13 @@ TIL: https://medium.com/chialab-open-source/ar-js-the-simpliest-way-to-get-cross
 *   https://au.gmented.com/app/marker/marker.php
 *    An approach based on markers is not a real limitation, but rather a paradigm that suits well for an incredible range of use cases.
 *    As AR.js shows us, it’s not necessary to have another device over a mobile phone to experience AR, nor to download a third party app (that a common user will surely uninstall soon after, or that probably they won’t download at all)
-*    
+*   With live collaborative session between multiple people, you can build a collaborative world map, making it faster for you to develop AR experiences and for users to get into shared AR experiences like multiplayer games.
+*   Reality Composer is a powerful tool that makes it easy for you to create interactive augmented reality experiences with no prior 3D experience. 
+*   Reality Converter quickly converts your existing 3D models to USDZ so it works seamlessly in our tools and on all AR-enabled iPhone and iPad devices.
+*   Reality Composer is included with Xcode and is also available as an iOS and iPadOS app, so you can build, test, tune, and simulate AR experiences entirely on iPhone or iPad.
+*   With Reality Composer for iOS, you can record sensor and camera data in the location where the AR experience will take place, then replay it later on your iOS device while building your app.
+*   The new Reality Converter app makes it easy to convert, view, and customize USDZ 3D objects on Mac. Simply drag-and-drop common 3D file formats, such as .obj, .gltf and .usd, to view the converted USDZ result, customize material properties with your own textures, and edit file metadata. You can even preview your USDZ object under a variety of lighting and environment conditions with built-in IBL options.
+*  Also:  
 
 03.10.21
 * Animatic: a preliminary version of a movie, produced by shooting successive sections of a storyboard and adding a soundtrack.
