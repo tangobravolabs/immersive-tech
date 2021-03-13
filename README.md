@@ -16,6 +16,27 @@ Crawford's Lessons
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 
 
+03.13.21
+* TIL: https://blooloop.com/museum/in-depth/immersive-experiences/
+* Modern visitors are more likely to spend their hard-earned money on experiences rather than products. For instance, they want to enjoy memorable days out, visits and experiences that they can share with friends, filling their social media accounts with fun images and videos.
+* Immersive experiences, such as Jeff Wayne’s The War Of The Worlds: The Immersive Experience or Judge Dredd Uprising: The LIVE Experience, perfectly fill the wants and expectations of this millennial and gen Z audience
+* the fact that attractions are competing with each other to capture their audience’s time, attention and money. 
+* Pine says, the most valuable of these is time. In a modern society where time is a precious resource, a truly good experience is time well-spent.
+* “Consumers want to spend their hard-earned time, and money, on the experiences that they value,” says Pine.
+* The fact that immersive experiences create memories, that they can be enjoyed together and shared, is a big part of their appeal. 
+* This award-winning attraction features ‘layered reality’ as well as music from the classic musical.
+*  Then, during the interval, the spell is not broken as they find themselves in the Red Weed themed bar. 
+*  Any sufficiently advanced technology is indistinguishable from magic.
+*  “People seem to love the fact that The War of the Worlds experience is a very different sort of storytelling. It is something that genuinely allows them to escape from the world for two hours.
+*  For a less adventurous but no less immersive experience, audiences have also been enjoying Atelier des Lumières in Paris, France. Here, famous artworks are brought to life, jumping from the canvas to the digital world.
+*  Some sit, some walk around, or even lie on the floor to take it all in. “Some, they are dreaming,” says de Cointet de Fillain.
+*  “Our mission is to make art more accessible to a wider and younger public. With the creation of our unique inclusive digital experiences, based on video, music and interactivity, we want to invite visitors of all backgrounds for a fascinating immersive journey into the artistic universe.”
+*  Zero Latency created the world’s first location-based free roam VR experience. And now, the company’s fun, immersive experiences are now available in 45 venues, over 22 countries worldwide. The appeal of this type of entertainment is certainly global.
+*  “We want our experiences to blow you away no matter which Zero Latency VR venue you’re at,” said CEO Tim Ruse on the released of the Zero Latency free-roam VR platform, which was developed in collaboration with HP, Microsoft and Intel.
+*  Immersive experiences really are everywhere these days. And there is something on offer for all types of audiences, from art lovers to thrill-seekers.
+*  
+
+
 03.12.21
 TIL: https://developer.apple.com/augmented-reality/arkit/
 * The advanced scene understanding capabilities built into the LiDAR Scanner allow this API to use per-pixel depth information about the surrounding environment
