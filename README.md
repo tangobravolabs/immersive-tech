@@ -15,6 +15,28 @@ Crawford's Lessons
 + The overall quality of an interaction depends on its depth, as well as speed
 + Unlike virtual reality, which requires users to purchase pricey headsets in order to be immersed in an altered experience, it’s possible to experience AR on mobile.
 
+03.14.21
+* https://www.cmswire.com/digital-workplace/augmented-reality-and-virtual-reality-deliver-roi-via-efficiencies-and-cost-reductions/
+* 62% of respondents said service-based AR experiences drive measurable return on investment (ROI).
+* AR and VR applications can now be found in just about every industry. For example, a Russian farmer and scientific team have developed VR goggles for dairy cows to immerse them in a virtual open field in hopes of increasing milk production.
+* where highly technical tasks require both hands to be used or to comply with OSHA, FDA and other regulations. 
+* Companies that help employees perform tasks more safely and quickly using up-to-date information delivered to their visor or headset will be rewarded with greater job commitment and motivation.
+*  VR and AR can dramatically improve or disrupt outdated processes and engagement models to demonstrate a brand’s unique value proposition. Companies utilizing virtual product models are finding real competitive advantage.
+*  One area with high ROI from virtual sales and marketing is savings in product shipping costs. Large, complex products cost hundreds of thousands of dollars to ship to and from sales meetings and tradeshows. 
+*  To ship Ricoh presses to demo sites around the world cost over $150,000 per printer, per event. With between six to 10 tradeshows in a typical year, the marketing team started asking themselves what alternatives could they offer their customers that delivered a similar experience, yet without the physical equipment.
+*  CentryLink's VR experience started with a connected city, which provided users with interactive touch points that communicated the value of CenturyLink’s robust global fiber network. 
+*  It was a delivery mechanism for CenturyLink to effectively tell its story around how technology is expanding into everyone’s life, while delighting and engaging its audience.
+*  And it paid off. Specifically, the VR application created a 400% increase in onsite engagement versus the previous year at CenturyLink’s booth at the Amazon Web Services’ re:Invent tradeshow.
+*  With a multitude of use cases, mixed reality for B2B is no longer a novelty but a table stake. Leading companies realize it’s not about the entertainment value of AR and VR, as customers won’t pay a premium for that. Customers will however reward industrial and enterprise brands that leverage this technology to resolve their pain points more efficiently, without compromising valued experiences.
+*  Also: http://www.moonshotio.com/2020/06/12/a-guide-to-the-value-of-immersive-reality-innovation/
+*  I am sharing two experience case canvases here: one for virtual reality, and one for augmented reality.
+*  There are two parts to the canvas not discussed earlier, but are important:
+*  > Leap of Faith Assumptions: these are essentially your user behavior or market unknowns that need to be evaluated. A LOFA for a business like Airbnb would’ve been: would people really stay in others’ homes? Or would people really be willing to let strangers stay in their homes?
+*  > Business Value: note, that I specifically left this near the bottom of the canvas as I still think it’s valuable to think about at a high level. But business value does NOT need to be the first thing you consider when evaluating an immersive reality idea.
+*  Example Experience Case Canvas: https://s3.amazonaws.com/www.moonshotio.com/moonshot/wp-content/uploads/2020/06/12101623/Moonshot_AR_VR_experience_canvases-1024x802.jpg
+*  The value of the experience, its ROI, is best understood in the fulfillment of the value for the users.
+*  Customer lifetime value (CLV), positive association, and loyalty are examples of the fulfillment of value. These can and in my experience resoundingly do lead to revenue, but it all started with the experience and user value. You are investing in the relationship with your customers through your product experience and the better we do so, the greater the gains.
+*  
 
 03.13.21
 * TIL: https://blooloop.com/museum/in-depth/immersive-experiences/
